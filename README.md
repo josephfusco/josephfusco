@@ -9,7 +9,7 @@
 <h3 id="rochester_ny">📍 <a href="https://en.wikipedia.org/wiki/Rochester,_New_York">Rochester, New York</a></h3>
 
 <p>
-  Currently, the weather is: <strong>33℉, snow</strong><br/>
+  Currently, the weather is: <strong>31℉, snow</strong><br/>
   Today, the sun rises at <strong>06:18 AM</strong> and sets at <strong>07:59 PM</strong>.
 </p>
 
@@ -55,7 +55,7 @@
   <small
     >This README file is generated every 3 hours.
     <br />
-    Last refresh: <strong>Wednesday, April 21, 2:01 AM EDT</strong>
+    Last refresh: <strong>Wednesday, April 21, 5:00 AM EDT</strong>
     <br />
   </small>
 </p>
