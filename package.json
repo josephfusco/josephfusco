@@ -1,0 +1,26 @@
+{
+  "name": "josephfusco",
+  "version": "1.0.0",
+  "private": true,
+  "description": "<!-- **josephfusco/josephfusco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "build_readme.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephfusco/josephfusco.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josephfusco/josephfusco/issues"
+  },
+  "homepage": "https://github.com/josephfusco/josephfusco#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mustache": "^4.0.1",
+    "node-fetch": "^2.6.1",
+    "puppeteer": "^5.3.0"
+  }
+}
