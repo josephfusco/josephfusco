@@ -9,14 +9,14 @@
 
 <p>
   Currently, the weather is: <strong>52℉, overcast clouds</strong><br/>
-  Today, the sun rises at <strong>07:04 AM</strong> and sets at <strong>06:57 PM</strong>.
+  Today, the sun rises at <strong>07:05 AM</strong> and sets at <strong>06:56 PM</strong>.
 </p>
 
 <h3 id="tampa_fl">📍 <a href="https://en.wikipedia.org/wiki/Tampa,_Florida">Tampa, Florida</a></h3>
 
 <p>
-  Currently, the weather is: <strong>74℉, heavy intensity rain</strong><br/>
-  Today, the sun rises at <strong>07:21 AM</strong> and sets at <strong>07:19 PM</strong>.
+  Currently, the weather is: <strong>73℉, light rain</strong><br/>
+  Today, the sun rises at <strong>07:21 AM</strong> and sets at <strong>07:18 PM</strong>.
 </p>
 
 <h2>Where to Find Me</h2>
@@ -54,7 +54,7 @@
   <small
     >This README file is generated every 3 hours.
     <br />
-    Last refresh: <strong>Wednesday, September 28, 11:52 PM EDT</strong>
+    Last refresh: <strong>Thursday, September 29, 2:25 AM EDT</strong>
     <br />
   </small>
 </p>
