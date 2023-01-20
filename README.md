@@ -9,7 +9,7 @@
 
 <p>
   Currently, the weather is: <strong>39℉, light rain</strong><br/>
-  Today, the sun rises at <strong>07:37 AM</strong> and sets at <strong>05:04 PM</strong>.
+  Today, the sun rises at <strong>07:36 AM</strong> and sets at <strong>05:05 PM</strong>.
 </p>
 
 <h3 id="tampa_fl">📍 <a href="https://en.wikipedia.org/wiki/Tampa,_Florida">Tampa, Florida</a></h3>
@@ -54,7 +54,7 @@
   <small
     >This README file is generated every 3 hours.
     <br />
-    Last refresh: <strong>Thursday, January 19, 10:04 PM EST</strong>
+    Last refresh: <strong>Friday, January 20, 1:02 AM EST</strong>
     <br />
   </small>
 </p>
