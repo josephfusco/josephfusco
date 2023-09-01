@@ -8,15 +8,15 @@
 <h3 id="rochester_ny">📍 <a href="https://en.wikipedia.org/wiki/Rochester,_New_York">Rochester, New York</a></h3>
 
 <p>
-  Currently, the weather is: <strong>55℉, clear sky</strong><br/>
-  Today, the sun rises at <strong>06:33 AM</strong> and sets at <strong>07:48 PM</strong>.
+  Currently, the weather is: <strong>53℉, clear sky</strong><br/>
+  Today, the sun rises at <strong>06:34 AM</strong> and sets at <strong>07:46 PM</strong>.
 </p>
 
 <h3 id="tampa_fl">📍 <a href="https://en.wikipedia.org/wiki/Tampa,_Florida">Tampa, Florida</a></h3>
 
 <p>
-  Currently, the weather is: <strong>83℉, scattered clouds</strong><br/>
-  Today, the sun rises at <strong>07:08 AM</strong> and sets at <strong>07:52 PM</strong>.
+  Currently, the weather is: <strong>81℉, moderate rain</strong><br/>
+  Today, the sun rises at <strong>07:08 AM</strong> and sets at <strong>07:51 PM</strong>.
 </p>
 
 <h2>Where to Find Me</h2>
@@ -54,7 +54,7 @@
   <small
     >This README file is generated every 3 hours.
     <br />
-    Last refresh: <strong>Thursday, August 31, 11:02 PM EDT</strong>
+    Last refresh: <strong>Friday, September 1, 2:02 AM EDT</strong>
     <br />
   </small>
 </p>
