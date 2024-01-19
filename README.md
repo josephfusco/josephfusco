@@ -8,7 +8,7 @@
 <h3 id="rochester_ny">📍 <a href="https://en.wikipedia.org/wiki/Rochester,_New_York">Rochester, New York</a></h3>
 
 <p>
-  Currently, the weather is: <strong>24℉, overcast clouds</strong><br/>
+  Currently, the weather is: <strong>23℉, overcast clouds</strong><br/>
   Today, the sun rises at <strong>07:37 AM</strong> and sets at <strong>05:03 PM</strong>.
 </p>
 
@@ -54,7 +54,7 @@
   <small
     >This README file is generated every 3 hours.
     <br />
-    Last refresh: <strong>Thursday, January 18, 7:08 PM EST</strong>
+    Last refresh: <strong>Thursday, January 18, 10:02 PM EST</strong>
     <br />
   </small>
 </p>
