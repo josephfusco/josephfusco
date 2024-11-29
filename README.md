@@ -54,7 +54,7 @@
   <small
     >This README file is generated every 3 hours.
     <br />
-    Last refresh: <strong>Friday, November 29, 10:02 AM EST</strong>
+    Last refresh: <strong>Friday, November 29, 1:03 PM EST</strong>
     <br />
   </small>
 </p>
