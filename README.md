@@ -16,7 +16,7 @@
 
 <p>
   Currently, the weather is: <strong>76℉, light rain</strong><br/>
-  Today, the sun rises at <strong>06:33 AM</strong> and sets at <strong>08:28 PM</strong>.
+  Today, the sun rises at <strong>06:34 AM</strong> and sets at <strong>08:28 PM</strong>.
 </p>
 
 <h2>Where to Find Me</h2>
@@ -54,7 +54,7 @@
   <small
     >This README file is generated every 3 hours.
     <br />
-    Last refresh: <strong>Thursday, June 19, 11:23 PM EDT</strong>
+    Last refresh: <strong>Friday, June 20, 2:03 AM EDT</strong>
     <br />
   </small>
 </p>
